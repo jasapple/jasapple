@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @jasapple
 - 👀 I’m interested in Automation, Music, and learning new things!
-- 🌱 I’m currently learning GoLang, more advanced Python, and more automation concepts.
+- 🌱 I’m currently learning Kubernetes, more advanced Python, and more automation concepts.
+
+Read some of my latest posts on my main website at http://jasapple.com
 
 Education:
 Rochester Institute of Technology (RIT)
